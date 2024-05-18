@@ -1,10 +1,10 @@
 from os import environ
 class Config(object):
-    API_ID = environ.get("API_ID", "1522127")
-    API_HASH = environ.get("API_HASH", "1252ffe16baf341bfd7236f92df76b0e")
-    BOT_TOKEN = environ.get("BOT_TOKEN", "6971823310:AAE_QcYgfRlCIQsuR-zuIqhvnoyAzf35b4g")
-    STRING_SESSION = environ.get("STRING_SESSION", "AQAXOc8APTglOd8gyen6KjU4VTT4FkxHD5RLgRA9Bh4y_K0GFB1Fs_bHy0pzRCtAixFG2EpQeMYGqSUHyYZ5MzWZep6niKWHkJt-qjSQMuYJOOIO4ncjj7EpxihRUWiZGb0j_sBuwHcnPKs_c25L78wAw84TS-FYvJt513BIBdDQWJt2EUysznHY_TvjffMDjaPJ8wJukNVOFyxsotMJiI1lLD2B1e7m6dehJFiGEhbj1qQclWTJMof5MH-TzEhoPSWGplEnKRtW-iMKDUJ5QjheMuLQD2cb_3hDtF9n6UC-ggxv-JFoZiT96xHQHGStmQkZ177wQmeFzNcfCmkacKA-YsFAXgAAAAA7-MTRAA")
-    SUDO_USERS = environ.get("SUDO_USERS", "1006159057")
+    API_ID = environ.get("API_ID", "27610252")
+    API_HASH = environ.get("API_HASH", "73e16fc08192ba7c1d52d4dc9fa2b220")
+    BOT_TOKEN = environ.get("BOT_TOKEN", "6487620358:AAE4iz1l7VIALr0mUVdMp5GDhlNM5DEqQfM")
+    STRING_SESSION = environ.get("STRING_SESSION", "1BVtsOLoBu1giFqgzdzOMYmWoOlCeaozPvGVk8pcaxp_0-94fSDE5LcDvoIJ_RWClAUXOP28eFIpJNWDGbhG-LOrFqeZPJbq4DSYONphgA_SUoOSOCAQFkA-3df_DwRR1YOar8xN1kqlURD_WW8tThEyOaJEHgxKRpoX2d8onhd87TWzPS1mG6qOfkeL34gPqsy9LlEWJpLJhfClfr8t5mMLV4mXnVa1CAmaLGU7KCmhMuV5DvZs9Tr9cme25ksVOJY1l1xMXW5hGGFycjRcA4GRqzmIJOecQi4XG_3l7GDfATNDeYgzAADfK6HGG7mDwElbOGq5qbSL8kDFA0PCQqz_DPtSEvJg=")
+    SUDO_USERS = environ.get("SUDO_USERS", "5319623393")
     COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "^/")
     HELP_MSG = """
     💢 **ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ɪɴ ᴛʜᴇ ʙᴏᴛ ᴀʀᴇ:**
